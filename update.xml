@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <!-- 
+    =====================================================
+    Transfer Data App - Auto Update Configuration
+    =====================================================
+    
+    Instructions (تعليمات):
+    1. Upload this file to your GitHub repository root
+    2. Update the <version> to match your new release
+    3. Update the <url> to point to your installer/zip file
+    4. Upload your installer to GitHub Releases
+    
+    الخطوات:
+    1. ارفع هذا الملف إلى جذر مستودع GitHub
+    2. حدّث <version> ليطابق الإصدار الجديد
+    3. حدّث <url> ليشير إلى ملف التثبيت
+    4. ارفع ملف التثبيت إلى GitHub Releases
+    =====================================================
+    -->
+    
+    <!-- Current version of your application (الإصدار الحالي) -->
+    <version>1.0.0.0</version>
+    
+    <!-- 
+    Download URL for the update file (رابط تحميل التحديث)
+    Supported formats: .exe, .msi, .zip
+    -->
+    <url>https://github.com/ahmeddmax/Transfer-Data-App/releases/download/v1.0.0/TransferDataApp_Setup.exe</url>
+    
+    <!-- 
+    Optional: Changelog URL (سجل التغييرات - اختياري)
+    Will be shown to user before update
+    -->
+    <changelog>https://github.com/ahmeddmax/Transfer-Data-App/releases/tag/v1.0.0</changelog>
+    
+    <!-- 
+    Optional: Force update (إجبار التحديث - اختياري)
+    Set to true to force users to update
+    -->
+    <mandatory>false</mandatory>
+</item>
