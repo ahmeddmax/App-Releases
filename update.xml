@@ -26,7 +26,7 @@
     Download URL for the update file (رابط تحميل التحديث)
     Supported formats: .exe, .msi, .zip
     -->
-    <url>https://github.com/ahmeddmax/Transfer-Data-App/releases/download/v1.0.0/TransferDataApp_Setup.exe</url>
+    <url>https://github.com/ahmeddmax/App-Releases/releases/download/v2/Transfer.Data.App.zip</url>
     
     <!-- 
     Optional: Changelog URL (سجل التغييرات - اختياري)
